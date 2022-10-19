@@ -1,7 +1,3 @@
-
-## Self learning notebooks
-The notebooks in `self-learning-materials/` will help you get a quick review of basic programming skills needed for the course. The materials are originally authored by [Yash Khandelwal](https://github.com/yashskhandelwal). 
-
 # Introduction
 This repository contains a collection of materials for learning Python 3 (3.5+).
 
@@ -31,3 +27,9 @@ repository instead of downloading a zip and extracting it. An advantage
 with doing it this way is that you don't need to download the whole
 tutorial again to get the latest version of it, all you need to do is to
 pull with git.
+
+## Self learning notebooks
+The notebooks in `self-learning-materials/` will help you get a quick review of basic programming skills needed for the course. The materials are originally authored by [Yash Khandelwal](https://github.com/yashskhandelwal). 
+
+## Sample project
+The notebook and README in "Sample_Project/" is an example project. The materials are originally authored by [Yash Khandelwal](https://github.com/yashskhandelwal). 
